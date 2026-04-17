@@ -14,8 +14,8 @@
   <a href="https://linkedin.com/in/sukritikashyap">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://sukritikashyap-portfolio.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:sukritikashyap0028@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -63,7 +63,7 @@ I'm a Statistics postgraduate with hands-on experience in data analysis, busines
 
 ## 🚀 Featured Projects  
 
-### 🔍 Marketing Attribution Analysis  
+### 🔍 Marketing Attribution Analysis
 > Production-level marketing analytics and attribution modeling  
 
 Built first-touch, last-touch, and linear attribution models in SQL. Performed funnel analysis to identify conversion drop-offs and created a Power BI dashboard for KPI comparison.
@@ -72,9 +72,13 @@ Built first-touch, last-touch, and linear attribution models in SQL. Performed f
 ![Power BI](https://img.shields.io/badge/Power%20BI-grey?style=flat)
 ![Funnel Analysis](https://img.shields.io/badge/Funnel%20Analysis-grey?style=flat)
 
+<a href="https://github.com/SukritiKashyap/Marketing-Attribution-Analysis">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 ---
 
-### 🤖 Insurance Lead Conversion Prediction  
+### 🤖 Insurance Lead Conversion Prediction 
 > Machine learning system for lead scoring  
 
 Trained a Random Forest model using engineered features and deployed a Streamlit app for real-time predictions and revenue estimation.
@@ -82,6 +86,14 @@ Trained a Random Forest model using engineered features and deployed a Streamlit
 ![Python](https://img.shields.io/badge/Python-grey?style=flat)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-grey?style=flat)
 ![Streamlit](https://img.shields.io/badge/Streamlit-grey?style=flat)
+
+<a href="https://github.com/SukritiKashyap/Insurance-Lead-Conversion-Prediction">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://insurance-conversion-prediction.streamlit.app/">
+  <img src="https://img.shields.io/badge/View%20Live%20App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</a>
 
 ---
 
@@ -93,6 +105,10 @@ Applied K-Means clustering on RFM-style metrics and generated actionable busines
 ![Python](https://img.shields.io/badge/Python-grey?style=flat)
 ![Pandas](https://img.shields.io/badge/Pandas-grey?style=flat)
 ![K-Means](https://img.shields.io/badge/K--Means-grey?style=flat)
+
+<a href="https://github.com/SukritiKashyap/CUSTOMER-PROFITABILITY-ANALYSIS">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 ---
 
