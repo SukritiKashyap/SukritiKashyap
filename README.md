@@ -63,6 +63,13 @@ I'm a Statistics postgraduate with hands-on experience in data analysis, busines
 
 ## 🚀 Featured Projects  
 
+### 🏥 Healthcare Cost Risk Prediction & Explainable Member Risk Scoring
+Predictive healthcare analytics with explainable AI
+
+Built an end-to-end machine learning pipeline to predict future high-cost health insurance members using XGBoost, Random Forest, and SHAP. Developed an explainable member risk scoring system with SQL analytics and a Power BI reporting workflow for business decision-making.
+
+`Python` `XGBoost` `SHAP` `SQL` `Power BI`
+
 ### 🔍 Marketing Attribution Analysis
 > Production-level marketing analytics and attribution modeling  
 
