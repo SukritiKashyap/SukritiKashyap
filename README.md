@@ -4,9 +4,9 @@
 
 <h2>Hi there, I'm Sukriti Kashyap 👋</h2>
 
-<p><b>Aspiring Data Analyst | SQL • Python • Power BI • Machine Learning</b></p>
+<p><b>Aspiring Analyst | SQL • Python • Power BI • Machine Learning</b></p>
 
-<p>Turning raw data into business decisions — not just dashboards</p>
+<p>Turning raw data into business decisions - not just dashboards</p>
 
 </div>
 
@@ -26,10 +26,10 @@
 
 ## 🧠 About Me  
 
-I'm a Statistics postgraduate with hands-on experience in data analysis, business intelligence, and machine learning. I build end-to-end analytics projects — from raw data processing to dashboards and business recommendations.
+I'm a Statistics postgraduate with hands-on experience in data analysis, business intelligence, and machine learning. I build end-to-end analytics projects - from raw data processing to dashboards and business recommendations.
 
 - 🔭 Currently working on: Marketing analytics, conversion funnels, ML-based prediction systems  
-- 🌱 Learning: Advanced SQL, DAX, analytics engineering (dbt)  
+- 🌱 Learning: Advanced SQL, DAX
 - 📍 Based in: Haryana, India  
 - 💬 Ask me about: SQL, Power BI, Python, Attribution models, Segmentation  
 
@@ -66,9 +66,11 @@ I'm a Statistics postgraduate with hands-on experience in data analysis, busines
 ### 🏥 Healthcare Cost Risk Prediction & Explainable Member Risk Scoring
 Predictive healthcare analytics with explainable AI
 
-Built an end-to-end machine learning pipeline to predict future high-cost health insurance members using XGBoost, Random Forest, and SHAP. Developed an explainable member risk scoring system with SQL analytics and a Power BI reporting workflow for business decision-making.
+Built an end-to-end machine learning pipeline to predict future high-cost health insurance members using XGBoost, Random Forest, and SHAP. Developed an explainable member risk scoring system with SQL analytics for business decision-making.
 
-`Python` `XGBoost` `SHAP` `SQL` `Power BI`
+`Python` `XGBoost` `SHAP` `SQL` 
+
+---
 
 ### 🔍 Marketing Attribution Analysis
 > Production-level marketing analytics and attribution modeling  
@@ -124,17 +126,17 @@ Applied K-Means clustering on RFM-style metrics and generated actionable busines
 | Degree | Institution | Year |
 |-------|------------|------|
 | M.Sc. Statistics | Kurukshetra University | 2024 – 2026 |
-| B.Sc. Data Science & AI | IIT Guwahati (Distance) | 2023 – 2027 |
+| B.Sc. Data Science & AI | IIT Guwahati (Online) | 2023 – 2027 |
 | B.Sc. Mathematics | Delhi University | 2021 – 2024 |
 
 ---
 
 ## 💼 Experience  
 
-**AI Development Intern & Web Co-Lead — Haryana Chess Association (Aug–Sep 2025)**  
+**AI Development Intern & Web Co-Lead - Haryana Chess Association (Aug–Sep 2025)**  
 Built and optimized website, achieved strong search rankings, and automated certificate generation for 1000+ users using Python.  
 
-**Quality Analysis Intern — EGLO India Production Pvt. Ltd. (Jun–Aug 2025)**  
+**Quality Analysis Intern - EGLO India Production Pvt. Ltd. (Jun–Aug 2025)**  
 Analyzed manufacturing defects using SPC tools and supported root cause analysis to improve process quality.  
 
 ---
